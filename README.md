@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jetzabel</h1>
-<h4 align="center">A frontend developer student from Spain</h4>
+<h4 align="center">A Full Stack developer student from Spain</h4>
 
 
 - 👩🏻‍💻 I’m just finished my Full Stack Bootcamp at [Neoland](https://www.neoland.es/)
