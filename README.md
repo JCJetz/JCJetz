@@ -3,7 +3,7 @@
 
 
 - 👩🏻‍💻 I’m just finished my Full Stack Bootcamp at [Neoland](https://www.neoland.es/)
-- 🌱 I’m currently learning more **javaScript & React.js**
+- 🌱 I’m currently learning more **Next.js more MERN Stack**
 - ⚡ I´m interested to learning about **blockchains, web3, smart contracts, and digital assets in general**
 - 📫 Where to reach me: **jcjetzjcjetz@gmail.com**
 <p>
