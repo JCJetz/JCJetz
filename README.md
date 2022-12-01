@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jetzabel</h1>
-<h4 align="center">A Full Stack developer from Spain</h4>
+<h4 align="center">A Frontend developer from Spain</h4>
 
 
-- 👩🏻‍💻 I’m just finished my Full Stack Bootcamp at [Neoland](https://www.neoland.es/)
-- 🌱 I’m currently learning **Next.js** and more **MERN Stack**
-- ⚡ I´m interested to learning about **web3, blockchains, smart contracts, and digital assets in general**
-- 📫 Where to reach me: **jcjetzjcjetz@gmail.com**
+- 👩🏻‍💻 I've just finished my Full Stack Bootcamp at [Neoland](https://www.neoland.es/)
+- 🌱 I’m currently learning **Next.js** and more about the **MERN Stack**
+- ⚡ I´m interested in learning more about **web3, blockchains, smart contracts, and digital assets in general**
+- 📫 You can reach me at: **jcjetzjcjetz@gmail.com**
 <p>
 
 <h3 align="left">Languages and Tools:</h3>
